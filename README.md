@@ -22,13 +22,13 @@ SQLAgent AI supports **multiple LLM providers — Google Gemini and Groq — thr
 
 ### Try SQLAgent AI
 
-**https://sqlagent-ai.streamlit.app/**
+**https://sql-agent-ai-dm.streamlit.app/**
 
 > Ask your database. Let the agent handle the SQL.
 
 ### Source Code
 
-**https://github.com/AbdelrhmanAkl/SQLAgent-AI**
+**https://github.com/DattaramMuknak/SQLAgent-AI**
 
 ---
 
